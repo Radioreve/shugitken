@@ -1,0 +1,27 @@
+{
+  "name": "shugitken",
+  "version": "1.0.0",
+  "description": "Git tools for code ninjas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radioreve/shugitken.git"
+  },
+  "keywords": [
+    "git",
+    "craft",
+    "ninja"
+  ],
+  "author": "Léo Jacquemin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radioreve/shugitken/issues"
+  },
+  "homepage": "https://github.com/radioreve/shugitken#readme",
+  "devDependencies": {
+    "jest": "25.2.7"
+  }
+}
